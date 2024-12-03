@@ -5,14 +5,12 @@ Features
 User Management: Add, update, and delete users.
 Book Management: CRUD operations for books in the library.
 Borrow and Return: Track book borrowing and returning with due dates.
-Authentication: User login with JWT authentication.
 Role-Based Access Control: Admin and user roles with different permissions.
 Technologies Used
 Node.js: JavaScript runtime for building scalable server-side applications.
 Express.js: Web framework for building RESTful APIs.
 MongoDB: NoSQL database for data storage.
 Mongoose: ODM library for MongoDB.
-JWT (JsonWebToken): For authentication and authorization.
 Dotenv: For managing environment variables.
 Installation
 Prerequisites
